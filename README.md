@@ -1,5 +1,4 @@
 # musicplay
-
 ## License gratuito
-### creditos a  AsmrProg https://www.youtube.com/watch?v=KndQpfPkOOY
+### creditos a  AsmrProg https://www.youtube.com/@AsmrProg
 #### otimo canal para se inspirar em codar 
